@@ -102,7 +102,6 @@ struct ContentView: View {
                     Text("Ingresar".uppercased())
                         .fontWeight(.bold)
                         .foregroundColor(.white)
-                        .padding()
                         .background(Color("red_oscuro"))
                         .cornerRadius(10)
                         .shadow(radius: 10)
