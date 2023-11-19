@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC7Y4wR2c-FnPF7rT5COYE1l9-58ajvu00</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771264280560</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>utec.proyectofirebase</string>
+	<key>PROJECT_ID</key>
+	<string>electiva4-e9adc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>electiva4-e9adc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771264280560:ios:429c898108f7d3de550f35</string>
+</dict>
+</plist>
